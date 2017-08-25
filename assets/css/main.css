@@ -469,6 +469,7 @@
 
 	header {
 		margin: 0 0 1em 0;
+		width: 100%;
 	}
 
 	header p {
@@ -476,10 +477,7 @@
 		position: relative;
 		margin: 0 0 1.5em 0;
 	}
-
-	header img {
-		margin: 2em 0;
-	}
+	
 	img {
 		margin: auto;
 		width: 100%;
